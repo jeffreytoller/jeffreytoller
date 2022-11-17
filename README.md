@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning advanced python, pandas, statistics and machine learning
 - 👯 I’m looking to collaborate on machine learning projects
 - 🤔 I’m looking for help with NLP
-- 💬 Ask me about multivariate regression and retro games
+- 💬 Ask me about time-series models and retro games
 - 📫 How to reach me: 👔 [linkedin](https://www.linkedin.com/in/jeffreyoller/)
 - ⚡ Fun fact: I speak fluent German and collect retro gaming hardware
 
