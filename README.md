@@ -1,7 +1,7 @@
 ### Hi I'm Jeff and I love data 👋
 
-- 🔭 I’m currently working on a bootcamp to become a data scientist
-- 🌱 I’m currently learning advanced python, pandas, statistics and machine learning
+- 🔭 I just finished a bootcamp to become a data scientist
+- 🌱 I’m currently learning NLP, image recognition and other machine learning projects
 - 👯 I’m looking to collaborate on machine learning projects
 - 🤔 I’m looking for help with NLP
 - 💬 Ask me about time-series models and retro games
